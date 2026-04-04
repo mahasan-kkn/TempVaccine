@@ -15,9 +15,9 @@
 #define WDT_TIMEOUT 30
 
 // ================= การตั้งค่าเครือข่าย (แก้ไขตรงนี้ให้ตรงกับของคุณ) =================
-const char* ssid = "Alongkorn_2.4GHz";
-const char* password = "0868594890";
-const String GOOGLE_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbwsu4GmP24DgjiPt6FWD0GTl_MPyLmwi7fbCzFDnElEQLEmWf52vfhLuSpaar6RIlH2Lw/exec"; 
+const char* ssid = "******";
+const char* password = "******";
+const String GOOGLE_SCRIPT_URL = "*******"; 
 
 // ================= ตั้งค่าฮาร์ดแวร์ =================
 Adafruit_SSD1306 display(128, 64, &Wire, -1);
